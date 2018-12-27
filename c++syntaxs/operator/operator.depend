@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541963581 source:f:\c++ projects\operator\main.cpp
+	<iostream>
+	<conio.h>
+

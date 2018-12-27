@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542902561 source:f:\c++ projects\stl_in_c++\main.cpp
+	<iostream>
+	<array>
+	<conio.h>
+
